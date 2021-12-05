@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="1712" started-at="2021-12-04T14:31:10Z" finished-at="2021-12-04T14:31:12Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="1712" started-at="2021-12-04T14:31:10Z" finished-at="2021-12-04T14:31:12Z">
+      <class name="restAPIBDD.PostRequest">
+        <test-method status="PASS" signature="PostCall()[pri:0, instance:restAPIBDD.PostRequest@3891771e]" name="PostCall" duration-ms="323" started-at="2021-12-04T14:31:12Z" finished-at="2021-12-04T14:31:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostCall -->
+      </class> <!-- restAPIBDD.PostRequest -->
+      <class name="restAPIBDD.GetRequest">
+        <test-method status="PASS" signature="GetCall()[pri:0, instance:restAPIBDD.GetRequest@17d0685f]" name="GetCall" duration-ms="1362" started-at="2021-12-04T14:31:10Z" finished-at="2021-12-04T14:31:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetCall -->
+      </class> <!-- restAPIBDD.GetRequest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
